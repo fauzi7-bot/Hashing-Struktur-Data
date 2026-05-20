@@ -1,11 +1,5 @@
 import random
 
-# ============================================================
-#   HASH TABLE - Tugas #8: Hashing in Data Structure
-#   Teknik Collision: Chaining (Separate Chaining)
-#   Nama: [Isi Nama Anda]
-# ============================================================
-
 TABLE_SIZE = 127  # Ukuran hash table (bilangan prima agar distribusi merata)
 
 
