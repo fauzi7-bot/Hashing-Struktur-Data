@@ -1,11 +1,7 @@
 import java.util.*;
 import java.util.LinkedList;
 import java.util.Scanner;
-// ============================================================
-//   HASH TABLE - Tugas #8: Hashing in Data Structure
-//   Teknik Collision: Separate Chaining (LinkedList per slot)
-//   Nama: [Isi Nama Anda]
-// ============================================================
+
 
 public class HashTable {
 
